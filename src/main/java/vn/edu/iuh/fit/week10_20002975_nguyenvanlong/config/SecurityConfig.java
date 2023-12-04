@@ -1,4 +1,4 @@
-package vn.edu.iuh.fit.config;
+package vn.edu.iuh.fit.week10_20002975_nguyenvanlong.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
