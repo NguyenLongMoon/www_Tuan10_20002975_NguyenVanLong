@@ -10,7 +10,8 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.web.bind.annotation.*;
 import vn.edu.iuh.fit.week10_20002975_nguyenvanlong.dto.AuthInfos;
 import vn.edu.iuh.fit.week10_20002975_nguyenvanlong.dto.UserInfo;
-import vn.edu.iuh.fit.services.JdbcUserServices;
+
+import vn.edu.iuh.fit.week10_20002975_nguyenvanlong.services.JdbcUserServices;
 
 
 import java.security.Principal;
